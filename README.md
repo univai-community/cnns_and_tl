@@ -3,12 +3,8 @@
 
 ## How to learn
 
-1. First Learn about CNNs at MNIST-CNN.ipynb <a target="_blank" href="https://colab.research.google.com/github/univai-community/cnns_and_tl/blob/main/MNIST-CNN.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-2. Then learn about Transfer learning from CVFineTuning.ipynb <a target="_blank" href="https://colab.research.google.com/github/univai-community/cnns_and_tl/blob/main/CVFineTuning.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+1. First Learn about CNNs at MNIST-CNN.ipynb <a target="_blank" href="https://colab.research.google.com/github/univai-community/cnns_and_tl/blob/main/MNIST-CNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. Then learn about Transfer learning from CVFineTuning.ipynb <a target="_blank" href="https://colab.research.google.com/github/univai-community/cnns_and_tl/blob/main/CVFineTuning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Homework
 
